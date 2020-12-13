@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Button button=findViewById(R.id.btn_update);
         Button iv=findViewById(R.id.btn_update);
         Button text=findViewById(R.id.btn_update);
+        text.setText("132132131");
 
     }
 }
